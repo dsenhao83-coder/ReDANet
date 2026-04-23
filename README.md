@@ -63,13 +63,20 @@ ReDANet preserves the "burst" characteristics of EMG signals while effectively s
 
 ---
 
+
 ## 📂 Dataset & Generalization
+
 To evaluate the **cross-domain generalization**, we validated the model using a multi-device setup. The results confirm that the learned representations are invariant to sensor-specific hardware characteristics.
+
+📥 **Dataset Access**:  
+The dataset is not publicly hosted due to size and distribution considerations.  
+Researchers who are interested in accessing the dataset may request it via email.
+
+📧 **Contact**: 10222140420@stu.ecnu.edu.cn 
+(Please include your name, affiliation, and intended use of the dataset.)
 
 <p align="center">
   <img src="static/images/data.png" width="750">
   <br>
   <strong>Figure 7.</strong> Overview of the cross-device and cross-subject validation protocol.
 </p>
-
----
